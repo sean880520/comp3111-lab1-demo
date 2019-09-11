@@ -20,11 +20,4 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.buildship.core.gradleprojectnature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>ScnCap.png</name>
-			<type>1</type>
-			<location>/Users/sean4712/Desktop/ScnCap.png</location>
-		</link>
-	</linkedResources>
 </projectDescription>
